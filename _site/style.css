@@ -98,7 +98,7 @@ img.page-hero {
 }
 
 .sticky-nav {
-  width: 220px;
+  width: 250px;
   position: -webkit-sticky;
   position: sticky;
   top: 0px;
@@ -106,10 +106,11 @@ img.page-hero {
   border: 0px solid rgba(51, 51, 51, 0.06);
   box-shadow: 0 0 8px 0 rgb(51 51 51 / 20%);
   border-radius: 16px;
-  padding: 25px;
+  padding: 35px 30px 35px 30px;
   background-color: #fff;
   margin-left: 20px;
-  margin-right: 20px;
+  margin-right: 37px;
+  margin-top: 30px;
 }
 
 .sticky-nav li {
