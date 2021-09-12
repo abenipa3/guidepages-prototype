@@ -241,4 +241,11 @@ Edit the How to Add Screenshots guide to include steps formatting
 
 Peer-created guides are an important part of Hack for LA’s Culture. Help us to make it better by posting any comments directly next to the content.
 
-This guide was created and contributed to by: Rose Crowell, Erika Gil, Katie Jensen and Bonnie Wolfe
+This guide was created and contributed to by:  \
+Rose Crowell [![LinkedIn](assets/images/linkedin-icon.png)](https://www.linkedin.com/)
+
+Erika Gil [![LinkedIn](assets/images/linkedin-icon.png)](https://www.linkedin.com/)
+
+Katie Jensen [![LinkedIn](assets/images/linkedin-icon.png)](https://www.linkedin.com/in/katie-jensen/)
+
+Bonnie Wolfe [![LinkedIn](assets/images/linkedin-icon.png)](https://www.linkedin.com/in/bonnieawolfe/) [![GitHub](assets/images/github-icon.png)](https://github.com/experimentsinhonesty)
