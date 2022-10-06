@@ -1,6 +1,6 @@
 # Hack for LA Website's Guide Pages Prototype
 
-Prototype Status: In Progress. [[Site Preview]](https://alyssabenipayo.github.io/guidepages-prototype/)
+Prototype Status: Completed. [Live](https://www.hackforla.org/guide-pages/how-to-set-reminders-in-slack.html) [Pull Request](https://github.com/hackforla/website/pull/3548)
 
 Current Objectives:
 - Prototype currently in-review.
